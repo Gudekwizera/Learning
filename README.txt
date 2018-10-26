@@ -1,2 +1,2 @@
 # Learning
-Journey through learning
+Journey to professional web and app developer
